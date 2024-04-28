@@ -2,7 +2,7 @@
 > - 名字: 资源扩展
 > - 描述: 各种免费资源的扩展,精简,实用,目前尚未完善
 
-## Engine version (>= 5.3.0)
+## Engine version (>= 5.4.0)
 
 > - Copyright: Aimo\_皑墨
 > - Open source protocol: MIT License
@@ -15,7 +15,7 @@
 > - Build powerful plugins together!!
 
 
-## 引擎版本( >= 5.3.0 )
+## 引擎版本( >= 5.4.0 )
 
 > - 版权所有权: Aimo\_皑墨
 > - 开源协议: MIT License
