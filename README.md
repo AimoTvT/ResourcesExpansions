@@ -26,4 +26,3 @@
 > - 开源地址(Git): https://github.com/AimoTvT/ResourcesExpansions
 > - 欢迎有实力的大佬/萌新加入本插件的贡献
 > - 一起打造强大的插件!!!
-z
