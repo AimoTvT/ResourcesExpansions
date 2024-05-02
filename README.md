@@ -6,6 +6,7 @@
 
 > - Copyright: Aimo\_皑墨
 > - Open source protocol: MIT License
+> - Open Source Date: Mar 8, 2024
 > - QQ: 2422489737
 > - wechat: Aimo_TvT
 > - Email: 2422489737@qq.com
@@ -19,6 +20,7 @@
 
 > - 版权所有权: Aimo\_皑墨
 > - 开源协议: MIT License
+> - 开源时间: 2024年3月8日
 > - QQ: 2422489737
 > - 微信: Aimo_TvT
 > - 邮箱: 2422489737@qq.com
