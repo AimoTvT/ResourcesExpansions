@@ -31,12 +31,17 @@
 >> - CircularMask_Materials // Circular + streamer + Custom texture material
 >> - ProgressBarMaterials // Progress bar + scroll image + Custom texture material
 > - Textures // folder, various textures
->> - Logos // folder, store the unified identity of other plugins
+>> - Logos // folder, store the unified identity of my plugin
 >> - Materials // folder, store the texture of the material
 >> - Styles // folder to use textures for various styles
 > - Touch // folder, is the texture asset of the UITouch plugin, is the same author (AimoTvT), don't worry, rest assured that it applies!!!
 > - UITouch plug-in source address (making) : https://github.com/AimoTvT/UITouch
 > - Please also review greatly do not do not report errors in this file, thank you for your hard work review greatly
+
+> - ### question
+> - Why is it a free plugin package
+>> - This plugin is used as a base resource for other plugins, so it is free and not yet complete
+>> - The plug-in package can be free, and I have to write the code of the material later, and it is a universal material function, so the plug-in is more suitable
 
 ## 引擎版本( >= 5.3.0 )
 
@@ -59,9 +64,14 @@
 >> - CircularMask_Materials //圆形+流光+自定义纹理材质
 >> - ProgressBarMaterials //进度条+滚动图片+自定义纹理材质
 > - Textures //文件夹,各种纹理
->> - Logos //文件夹,存储的别人插件统一标识
+>> - Logos //文件夹,存储的本人插件统一标识
 >> - Materials //文件夹,存储了材质的纹理
 >> - Styles //文件夹,各种样式用的纹理
 > - Touch //文件夹,是UITouch该插件的纹理资产,是同一个作者(AimoTvT),无需担心,放心适用 !!! 
 > - UITouch 插件 开源地址(GitHub): https://github.com/AimoTvT/UITouch
-> - 还请审核大大不要不要报错这个文件,感谢辛苦审核大大了
+
+> - ### 问题
+> - 为什么它是一个免费的插件包
+>> - 这个插件是用来作为其他插件的基础资源,所以才免费的,并且还未完善
+>> - 插件包才能免费,而且我后期要写材质的代码,并且是通用材质函数,所以插件更合适
+
