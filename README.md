@@ -36,7 +36,6 @@
 >> - Styles // folder to use textures for various styles
 > - Touch // folder, is the texture asset of the UITouch plugin, is the same author (AimoTvT), don't worry, rest assured that it applies!!!
 > - UITouch plug-in source address (making) : https://github.com/AimoTvT/UITouch
-> - Please also review greatly do not do not report errors in this file, thank you for your hard work review greatly
 
 > - ### question
 > - Why is it a free plugin package
