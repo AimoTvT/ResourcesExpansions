@@ -10,10 +10,10 @@
 > - Materials //文件夹,是各种材质,如流光,遮盖圆形,遮盖滚动...
 > - Textures //文件夹,本人标识,各种边框的样式图片,材质纹理
 
-## Engine version (>= 5.3.0)
+## Engine version (>= 5.4.0)
 
 > - Copyright: Aimo\_皑墨
-> - Open source protocol: MIT License
+> - Open source protocol: Apache License 2.0
 > - Open Source Date: Mar 8, 2024
 > - QQ: 2422489737
 > - wechat: Aimo_TvT
@@ -42,10 +42,10 @@
 >> - This plugin is used as a base resource for other plugins, so it is free and not yet complete
 >> - The plug-in package can be free, and I have to write the code of the material later, and it is a universal material function, so the plug-in is more suitable
 
-## 引擎版本( >= 5.3.0 )
+## 引擎版本( >= 5.4.0 )
 
 > - 版权所有权: Aimo\_皑墨
-> - 开源协议: MIT License
+> - 开源协议: Apache License 2.0
 > - 开源时间: 2024年3月8日
 > - QQ: 2422489737
 > - 微信: Aimo_TvT
