@@ -13,7 +13,7 @@
 ## Engine version (>= 5.3.0)
 
 > - Copyright: Aimo\_皑墨
-> - Open source protocol: MIT License
+> - Open source protocol: Apache License 2.0
 > - Open Source Date: Mar 8, 2024
 > - QQ: 2422489737
 > - wechat: Aimo_TvT
@@ -45,7 +45,7 @@
 ## 引擎版本( >= 5.3.0 )
 
 > - 版权所有权: Aimo\_皑墨
-> - 开源协议: MIT License
+> - 开源协议: Apache License 2.0
 > - 开源时间: 2024年3月8日
 > - QQ: 2422489737
 > - 微信: Aimo_TvT
